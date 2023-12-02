@@ -101,13 +101,10 @@ oneight
 fiveight
 `;
 
-// Deno.test("part1", () => {
-//   assertEquals(part1(TEST_INPUT_1), 142);
-// });
+Deno.test("part1", () => {
+  assertEquals(part1(TEST_INPUT_1), 142);
+});
 
 Deno.test("part2", () => {
   assertEquals(part2(TEST_INPUT_2), 798);
 });
-
-// 2023 Day 1 Part 1: 55834
-// 2023 Day 1 Part 2: 53254

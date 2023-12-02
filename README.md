@@ -1,5 +1,7 @@
 # advent-of-code
 
+https://github.com/Macil/aocd
+
 This project contains solutions to [Advent of Code](https://adventofcode.com/)
 2023, using [Deno](https://deno.land/) and Typescript.
 
